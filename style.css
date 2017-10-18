@@ -1,4 +1,91 @@
-h1 {
-	font-size: 22px; 
-	font-family: Georgia; 
-	{
+.html {
+	background-color: white;
+	}
+
+.menue {
+	width:30%;
+	font-family: "Sabon Regular", "Sabon Regular", Serif;
+	font-size:12px;
+	float: left;
+	text-transform: uppercase;
+	position: relative;
+	top: 70px;
+	left: 15px;
+	text-decoration: none;
+}
+.logo {
+	font-size: 19px;
+	position: relative;
+	text-decoration: none;
+	display: block;
+	left: 42px;
+	line-height: 4;
+}
+.item {
+	display:block;
+	padding: 5px 5px 5px 3px;
+	position:relative;
+	line-height: 1.4;
+	font-size: 12px;
+	font-family: "Sabon Regular", "Sabon Regular", Serif;
+	text-decoration:none; 
+}
+
+.photo img{
+	width: 40%;
+}
+.photo {
+	width: 65%;
+	position: relative;
+	top: 90px;
+	float:right;
+	right: 135px;
+}
+.previous {
+	position:relative;
+	top: 90px;
+	left: -67px;
+	font-family: "Sabon Regular", Serif;
+	font-size:13px;
+}
+.picture img {
+	width:40px;
+	
+}
+.picture {
+	width: 65%;
+	position: relative;
+	top: 100px;
+	float:right;
+	right: 135px;
+}
+.landscape {
+	position:reletive;
+	font-family: "Sabon Regular", Serif;
+	font-size: 12px;
+	float: right;
+	top: 900px;
+}
+.architecture {
+	position:reletive;
+	font-family: "Sabon Regular", Serif;
+	font-size: 10px;
+	float: right;
+	top: 900px;
+}
+.vertical img {
+	width: 40%;
+}
+.vertical {
+	width: 65%;
+	position: relative;
+	top: 100px;
+	float:center;
+	right: 135px;
+}
+	
+.contact {
+	text-align: left; 
+	font-family: "Sabon Regular", Serif;
+	
+}
