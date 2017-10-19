@@ -9,7 +9,9 @@
 	top: 70px;
 	left: 15px;
 	text-decoration: none;
+
 }
+
 .logo {
 	font-size: 19px;
 	position: relative;
@@ -17,7 +19,9 @@
 	display: block;
 	left: 42px;
 	line-height: 4;
+	
 }
+
 .item {
 	display:block;
 	padding: 5px 5px 5px 3px;
@@ -31,6 +35,7 @@
 .photo img{
 	width: 40%;
 }
+
 .photo {
 	width: 65%;
 	position: relative;
@@ -38,6 +43,7 @@
 	float:right;
 	right: 135px;
 }
+
 .previous {
 	position:relative;
 	top: 90px;
@@ -47,8 +53,8 @@
 }
 .picture img {
 	width:65%;
-	
 }
+
 .picture {
 	width: 65%;
 	position: relative;
@@ -59,6 +65,7 @@
 .landscape img {
 	width: 40%
 }
+
 .landscape {
 	position:relative;
 	top: 490px;
@@ -71,6 +78,7 @@
 .vertical img {
 	width: 40%;
 }
+
 .vertical {
 	width: 65%;
 	position: relative;
@@ -81,6 +89,7 @@
 .architecture {
 	width: 40%; 
 }
+
 .architecture {
 	position:relative;
 	top: 490px;
@@ -89,6 +98,7 @@
 	font-size:13px;
 	color: #808080; 
 }
+
 .portrait {
 	position:relative;
 	top: 622px;
@@ -97,6 +107,7 @@
 	font-size:13px;
 	color: #808080; 
 }
+
 .woods {
 	position:relative;
 	top: 490px;
@@ -105,10 +116,8 @@
 	font-size:13px;
 	color: #808080; 
 }
-	
-	
 
-
+	
 .text {
 	width: 65%;
 	position: relative;
@@ -116,14 +125,16 @@
 	float:right;
 	right: 135px;
 	text-align: left; 
-	font-family: "Sabon Regular", Serif;
+	font-family: "Century Gothic", Serif;
+	color:	#2F4F4F;
 	
 }
+
 h3 {
 	width: 24%;
 	float:right;
 	position: relative; 
-	top: 60px;
+	top: 50px;
 
    
 }
@@ -135,6 +146,7 @@ h3 {
 	right: 10px;
     display: block;
     text-decoration:none;
+	font-family:"Century Gothic", Serif;
 }
 	
 	
