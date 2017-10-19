@@ -1,6 +1,3 @@
-.html {
-	background-color: white;
-	}
 
 .menue {
 	width:30%;
@@ -49,7 +46,7 @@
 	font-size:13px;
 }
 .picture img {
-	width:40px;
+	width:65%;
 	
 }
 .picture {
@@ -59,33 +56,85 @@
 	float:right;
 	right: 135px;
 }
+.landscape img {
+	width: 40%
+}
 .landscape {
-	position:reletive;
+	position:relative;
+	top: 490px;
+	left: -65px;
 	font-family: "Sabon Regular", Serif;
-	font-size: 12px;
-	float: right;
-	top: 900px;
+	font-size:13px;
+	color: #808080;.
 }
-.architecture {
-	position:reletive;
-	font-family: "Sabon Regular", Serif;
-	font-size: 10px;
-	float: right;
-	top: 900px;
-}
+	
 .vertical img {
 	width: 40%;
 }
 .vertical {
 	width: 65%;
 	position: relative;
-	top: 100px;
-	float:center;
+	top: 90px;
+	float:right;
 	right: 135px;
 }
+.architecture {
+	width: 40%; 
+}
+.architecture {
+	position:relative;
+	top: 490px;
+	left: -65px;
+	font-family: "Sabon Regular", Serif;
+	font-size:13px;
+	color: #808080; 
+}
+.portrait {
+	position:relative;
+	top: 622px;
+	left: -65px;
+	font-family: "Sabon Regular", Serif;
+	font-size:13px;
+	color: #808080; 
+}
+.woods {
+	position:relative;
+	top: 490px;
+	left: -65px;
+	font-family: "Sabon Regular", Serif;
+	font-size:13px;
+	color: #808080; 
+}
 	
-.contact {
+	
+
+
+.text {
+	width: 65%;
+	position: relative;
+	top: 90px;
+	float:right;
+	right: 135px;
 	text-align: left; 
 	font-family: "Sabon Regular", Serif;
 	
 }
+h3 {
+	width: 24%;
+	float:right;
+	position: relative; 
+	top: 60px;
+
+   
+}
+.contact {
+	width: 24%;
+	float:right;
+	position: relative; 
+	top: 70px;
+	right: 10px;
+    display: block;
+    text-decoration:none;
+}
+	
+	
